@@ -1,0 +1,25 @@
+# Entorno virtual
+myenv/
+env/
+venv/
+
+# Archivos compilados de Python
+*.pyc
+_pycache_/
+
+# Archivos de configuración y credenciales sensibles
+.env
+
+# Archivos y carpetas creados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos generados por IDEs (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Archivos de despliegue en Vercel
+/.vercel/
